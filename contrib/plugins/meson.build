@@ -9,6 +9,8 @@ contrib_plugins = [
 'howvec.c',
 'hwprofile.c',
 'ips.c',
+'riscv_insn_freq.c',
+'riscv_vsetvli_profile.c',
 'stoptrigger.c',
 'traps.c',
 'uftrace.c',
